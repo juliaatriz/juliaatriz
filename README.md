@@ -1,6 +1,11 @@
 <div align="center">
 
-# 🐈‍⬛ About Me
+<img src="./imagem.jpg" width="700" alt="banner"/>
+
+<br>
+<br>
+
+# 👋 About Me
 
 Estudante de Ciência da Computação na Universidade Cidade de São Paulo, em formação na área de tecnologia. Buscando constantemente aprimorar minhas habilidades por meio de estudos e projetos práticos.
 
