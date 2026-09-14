@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./img.jpg" width="700" alt="banner"/>
+<img src="./assets/banner.svg" alt="banner" width="100%">
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Bem-vindo(a)+ao+meu+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,9 +20,9 @@ Estudante de Ciência da Computação na Universidade Cidade de São Paulo, em f
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliaatriz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliaaparra)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.trizparra@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/juliaatriz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EC4899?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliaaparra)
+[![Gmail](https://img.shields.io/badge/Gmail-22D3EE?style=flat-square&logo=gmail&logoColor=0d0620)](mailto:j.trizparra@gmail.com)
 
 </div>
 
@@ -32,12 +32,12 @@ Estudante de Ciência da Computação na Universidade Cidade de São Paulo, em f
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-22D3EE?style=flat-square&logo=mysql&logoColor=0d0620)
+![HTML5](https://img.shields.io/badge/HTML5-EC4899?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-A78BFA?style=flat-square&logo=css3&logoColor=0d0620)
+![JavaScript](https://img.shields.io/badge/JavaScript-FBBF24?style=flat-square&logo=javascript&logoColor=0d0620)
+![Git](https://img.shields.io/badge/Git-F97316?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -47,9 +47,9 @@ Estudante de Ciência da Computação na Universidade Cidade de São Paulo, em f
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=juliaatriz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9)
+![Stats](https://github-readme-stats.vercel.app/api?username=juliaatriz&show_icons=true&hide_border=true&bg_color=135,0d0620,1e1033,2d1b4e&title_color=EC4899&icon_color=22D3EE&text_color=e2d9f3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaatriz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A855F7&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaatriz&layout=compact&hide_border=true&bg_color=135,0d0620,1e1033,2d1b4e&title_color=EC4899&text_color=e2d9f3)
 
 </div>
 
@@ -59,6 +59,6 @@ Estudante de Ciência da Computação na Universidade Cidade de São Paulo, em f
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juliaatriz&theme=tokyo-night&hide_border=true&bg_color=00000000&color=A855F7&line=A855F7&point=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juliaatriz&hide_border=true&bg_color=0d0620&color=EC4899&line=8B5CF6&point=67e8f9&area=true&area_color=8B5CF6)
 
 </div>
