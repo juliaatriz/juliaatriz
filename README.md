@@ -34,9 +34,6 @@ Estudante de Ciência da Computação na Universidade Cidade de São Paulo, em f
 
 ![Python](https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-22D3EE?style=flat-square&logo=mysql&logoColor=0d0620)
-![HTML5](https://img.shields.io/badge/HTML5-EC4899?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-A78BFA?style=flat-square&logo=css3&logoColor=0d0620)
-![JavaScript](https://img.shields.io/badge/JavaScript-FBBF24?style=flat-square&logo=javascript&logoColor=0d0620)
 ![Git](https://img.shields.io/badge/Git-F97316?style=flat-square&logo=git&logoColor=white)
 
 </div>
