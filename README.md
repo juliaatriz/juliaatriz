@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-Software%20Development-8b5cf6?style=flat-square" alt="Foco em desenvolvimento de software"/>
+<img src="https://img.shields.io/badge/Focus-Software%20Development-8b5cf6?style=flat-square" alt="Foco em back-end"/>
 <img src="https://img.shields.io/badge/Status-Always%20Learning-0891b2?style=flat-square" alt="Sempre aprendendo"/>
 
 </div>
@@ -40,7 +40,7 @@ Projeto de prática em C usando o algoritmo *Bubble Sort* para ordenar dados e a
 ---
 
 <div align="center">
-  <i>Um passo de cada vez, uma linha de código por vez.</i>
+  
   <br/><br/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:082f49,50:241044,100:09090f&height=90&section=footer" />
 </div>
