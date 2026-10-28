@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:241044,100:082f49&height=180&section=header&text=JULIA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:09090f,50:241044,100:061d2b&text=JULIA%20&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=COMPUTER%20SCIENCE%20STUDENT&descAlignY=68&descSize=13&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=520&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Aprendendo+e+construindo+projetos;Explorando+o+mundo+da+programa%C3%A7%C3%A3o" alt="Texto animado" />
 
