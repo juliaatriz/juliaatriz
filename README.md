@@ -16,7 +16,7 @@
 ### `> Sobre mim`
 
 🎓 Estudante de **Ciência da Computação** na UNICID.  
-💻 Tenho interesse em programação, desenvolvimento de back-end e inteligência artificial.  
+💻 Tenho interesse em programação, desenvolvimento back-end e inteligência artificial.  
 🧩 Gosto de aprender na prática e transformar os estudos em projetos.
 
 ### `> Tecnologias`
