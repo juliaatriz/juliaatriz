@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-Software%20Development-8b5cf6?style=flat-square" alt="Foco em back-end"/>
+<img src="https://img.shields.io/badge/Focus-Back-end%20Development-8b5cf6?style=flat-square" alt="Foco em back-end"/>
 <img src="https://img.shields.io/badge/Status-Always%20Learning-0891b2?style=flat-square" alt="Sempre aprendendo"/>
 
 </div>
