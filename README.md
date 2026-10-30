@@ -26,7 +26,7 @@
 ### `> GitHub em números`
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=juliaatriz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=38bdf8&text_color=e5e7eb" alt="Estatísticas do GitHub"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliaatriz&theme=dracula" alt="Estatísticas do GitHub"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaatriz&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e5e7eb" alt="Linguagens mais usadas"/>
 </div>
 
