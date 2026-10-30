@@ -38,6 +38,10 @@ Projeto de prática em C usando o algoritmo *Bubble Sort* para ordenar dados e a
 ---
 
 <div align="center">
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/juliaatriz/juliaatriz/output/snake.svg" alt="Cobrinha comendo minhas contribuições"/>
+</div>
   
   <br/><br/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:082f49,50:241044,100:09090f&height=90&section=footer" />
